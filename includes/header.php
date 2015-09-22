@@ -14,7 +14,7 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#design">DESIGN</a></li>
+        <li><a href="#design">TEST</a></li>
         <li><a href="#build">DEVELOPMENT</a></li>
         <li><a href="#copywriting">COPYWRITING</a></li>
         <li><a href="#contact">CONTACT</a></li>
