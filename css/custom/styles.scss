@@ -1,0 +1,56 @@
+.uk-navbar {
+	height: 70px;
+	background: #f5f5f5;
+}
+
+.uk-navbar-brand {
+	max-width: 200px;
+	margin-top: 14px;
+}
+
+.uk-text-primary {
+	color: #d84021 !important;
+}
+
+.header_wrapper {
+	background: red;
+}
+
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 480px) {
+
+.uk-navbar {
+	height: 90px;
+	  .uk-navbar-nav {
+	  		margin: 22px 0px 0px 0px;
+	  		> li {
+	  			margin-right: 15px;
+	  		}
+	  }
+}
+
+.uk-navbar-brand {
+	max-width: 300px;
+	margin-top: 20px;
+}
+
+}
+
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 768px) {
+
+}
+
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 960px) {
+
+}
+
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
