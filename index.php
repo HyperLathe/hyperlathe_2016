@@ -20,10 +20,10 @@
             <div class="uk-grid uk-margin-top" data-uk-grid-margin>
                 <div class="uk-width-medium-1-1">
 
-                    <div class="uk-vertical-align uk-text-center" style="background: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNi4wLjQsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkViZW5lXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB3aWR0aD0iMTEzMHB4IiBoZWlnaHQ9IjQ1MHB4IiB2aWV3Qm94PSIwIDAgMTEzMCA0NTAiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDExMzAgNDUwIiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxyZWN0IGZpbGw9IiNGNUY1RjUiIHdpZHRoPSIxMTMwIiBoZWlnaHQ9IjQ1MCIvPg0KPC9zdmc+DQo=') 50% 0 no-repeat; height: 450px;">
-                        <div class="uk-vertical-align-middle uk-width-1-2">
+                    <div class="uk-vertical-align uk-text-center hero_home" data-uk-parallax="{bg: '-200'}">
+                        <div class="uk-vertical-align-middle uk-width-1-2" data-uk-parallax="{opacity: '-1'}">
                             <h1 class="uk-heading-large">Standards compliant, responsive, web design &amp; development.</h1>
-                            <p class="uk-text-large">Please call to discuss your requirements: <strong>+44 (0)7967 639 192</strong></p>
+                            <p class="uk-text-large">Please call to discuss your requirements:<br><span>+44 (0)7967 639 192</span></p>
                         </div>
                     </div>
 
@@ -91,7 +91,7 @@
                         </div>
                         <div class="uk-width-5-6">
                             <h2 class="uk-h3">Wordpress</h2>
-                            <p>From scratch-built Wordpress sites and custom templating, to  with workable knowledge of PHP.</p>
+                            <p>From scratch-built Wordpress sites and personal blogs to custom templating and design.</p>
                         </div>
                     </div>
                 </div>
@@ -99,47 +99,13 @@
                 <div class="uk-width-medium-1-3">
                     <div class="uk-grid">
                         <div class="uk-width-1-6">
-                            <i class="uk-icon-github-square uk-icon-large uk-text-primary"></i>
+                            <i class="uk-icon-folder uk-icon-large uk-text-primary"></i>
                         </div>
                         <div class="uk-width-5-6">
-                            <h2 class="uk-h3">Github</h2>
-                            <p>For backing up, project tracking and multi-user version control.</p>
+                            <h2 class="uk-h3">Content Creation</h2>
+                            <p>Effective copywriting and proofreading, taglines, marketing, branding and image sourcing.</p>
                         </div>
                     </div>
-                </div>
-            </div>
-
-            <hr class="uk-grid-divider">
-
-            <div class="uk-grid" data-uk-grid-margin>
-
-                <div class="uk-width-medium-1-2">
-                    <img width="660" height="400" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNi4wLjQsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkViZW5lXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB3aWR0aD0iNjYwcHgiIGhlaWdodD0iNDAwcHgiIHZpZXdCb3g9IjAgMCA2NjAgNDAwIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA2NjAgNDAwIiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxyZWN0IGZpbGw9IiNGNUY1RjUiIHdpZHRoPSI2NjAiIGhlaWdodD0iNDAwIi8+DQo8ZyBvcGFjaXR5PSIwLjciPg0KCTxwYXRoIGZpbGw9IiNEOEQ4RDgiIGQ9Ik0yNTguMTg0LDE0My41djExM2gxNDMuNjMydi0xMTNIMjU4LjE4NHogTTM5MC4yNDQsMjQ0LjI0N0gyNzAuNDM3di04OC40OTRoMTE5LjgwOEwzOTAuMjQ0LDI0NC4yNDcNCgkJTDM5MC4yNDQsMjQ0LjI0N3oiLz4NCgk8cG9seWdvbiBmaWxsPSIjRDhEOEQ4IiBwb2ludHM9IjI3Ni44ODEsMjM0LjcxNyAzMDEuNTcyLDIwOC43NjQgMzEwLjgyNCwyMTIuNzY4IDM0MC4wMTYsMTgxLjY4OCAzNTEuNTA1LDE5NS40MzQgDQoJCTM1Ni42ODksMTkyLjMwMyAzODQuNzQ2LDIzNC43MTcgCSIvPg0KCTxjaXJjbGUgZmlsbD0iI0Q4RDhEOCIgY3g9IjMwNS40MDUiIGN5PSIxNzguMjU3IiByPSIxMC43ODciLz4NCjwvZz4NCjwvc3ZnPg0K" alt="">
-                </div>
-
-                <div class="uk-width-medium-1-2">
-                    <h1>Heading</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                    <h2>Subheading</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                    <a class="uk-button uk-button-primary" href="#">Button</a>
-                </div>
-
-            </div>
-
-            <hr class="uk-grid-divider">
-
-            <div class="uk-grid" data-uk-grid-margin>
-                <div class="uk-width-medium-1-2">
-                    <h1>Heading</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                    <h2>Subheading</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                    <a class="uk-button uk-button-primary" href="#">Button</a>
-                </div>
-
-                <div class="uk-width-medium-1-2">
-                    <img width="660" height="400" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNi4wLjQsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkViZW5lXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB3aWR0aD0iNjYwcHgiIGhlaWdodD0iNDAwcHgiIHZpZXdCb3g9IjAgMCA2NjAgNDAwIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA2NjAgNDAwIiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxyZWN0IGZpbGw9IiNGNUY1RjUiIHdpZHRoPSI2NjAiIGhlaWdodD0iNDAwIi8+DQo8ZyBvcGFjaXR5PSIwLjciPg0KCTxwYXRoIGZpbGw9IiNEOEQ4RDgiIGQ9Ik0yNTguMTg0LDE0My41djExM2gxNDMuNjMydi0xMTNIMjU4LjE4NHogTTM5MC4yNDQsMjQ0LjI0N0gyNzAuNDM3di04OC40OTRoMTE5LjgwOEwzOTAuMjQ0LDI0NC4yNDcNCgkJTDM5MC4yNDQsMjQ0LjI0N3oiLz4NCgk8cG9seWdvbiBmaWxsPSIjRDhEOEQ4IiBwb2ludHM9IjI3Ni44ODEsMjM0LjcxNyAzMDEuNTcyLDIwOC43NjQgMzEwLjgyNCwyMTIuNzY4IDM0MC4wMTYsMTgxLjY4OCAzNTEuNTA1LDE5NS40MzQgDQoJCTM1Ni42ODksMTkyLjMwMyAzODQuNzQ2LDIzNC43MTcgCSIvPg0KCTxjaXJjbGUgZmlsbD0iI0Q4RDhEOCIgY3g9IjMwNS40MDUiIGN5PSIxNzguMjU3IiByPSIxMC43ODciLz4NCjwvZz4NCjwvc3ZnPg0K" alt="">
                 </div>
             </div>
 
@@ -153,7 +119,17 @@
                 </div>
             </div>
 
-            <h1 class="uk-text-center">Our Clients</h1>
+            <h1 class="uk-text-center">Technologies:</h1>
+
+            <div class="uk-grid" data-uk-grid-margin>
+                <div class="uk-width-1-2 uk-width-medium-1-3 uk-width-large-1-6">HTML(5)<br>CSS(3)<br>JavaScript</div>
+                <div class="uk-width-1-2 uk-width-medium-1-3 uk-width-large-1-6">jQuery<br>PHP<br>WordPress</div>
+                <div class="uk-width-1-2 uk-width-medium-1-3 uk-width-large-1-6">GIT<br>Grunt<br>SASS/LESS</div>
+                <div class="uk-width-1-2 uk-width-medium-1-3 uk-width-large-1-6">Sublime Text<br>Twitter Bootstrap<br>UIKit</div>
+                <div class="uk-width-1-2 uk-width-medium-1-3 uk-width-large-1-6"><br>Google Analytics<br>HTML Emails</div>
+                <div class="uk-width-1-2 uk-width-medium-1-3 uk-width-large-1-6">Adobe CC<br>Balsamiq<br>BrowserStack</div>
+            </div>
+
 
             <div class="uk-grid" data-uk-grid-margin>
                 <div class="uk-width-1-2 uk-width-medium-1-3 uk-width-large-1-6">

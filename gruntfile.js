@@ -16,7 +16,8 @@ module.exports = function(grunt) {
             headjs: {
                 src: [
                     'js/customHeadSrc/uikit.min.js',
-                    'js/customHeadSrc/sticky.js'
+                    'js/customHeadSrc/sticky.js',
+                    'js/customHeadSrc/parallax.js'
                 ],
                 dest: 'js/headSrc/global-head.js',
             },

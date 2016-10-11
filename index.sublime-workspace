@@ -1,0 +1,223 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"cus",
+				"customHeadSrc"
+			],
+			[
+				"he",
+				"headSrc"
+			],
+			[
+				"foot",
+				"footSrc"
+			],
+			[
+				"cu",
+				"customFootSrc"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimelin",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Disable Linter"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"install"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/richardyoung/Documents/HyperLathe/redesign/hyperlathe_2015/index.php",
+		"/Users/richardyoung/Documents/Clients/Lebara/lebara_2014_newnav/includes/footer.php",
+		"/Users/richardyoung/Documents/Clients/Lebara/lebara_mobile_files/css/styles.css",
+		"/Users/richardyoung/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/richardyoung/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/richardyoung/Documents/HyperLathe/redesign/hyperlathe_2015/css/custom.scss",
+		"/Users/richardyoung/Documents/HyperLathe/redesign/hyperlathe_2015/package.json",
+		"/Users/richardyoung/Documents/HyperLathe/redesign/hyperlathe_2015/css/styles.scss",
+		"/Users/richardyoung/Documents/HyperLathe/redesign/hyperlathe_2015/includes/head.php",
+		"/Users/richardyoung/Documents/HyperLathe/redesign/hyperlathe_2015/includes/footer.php",
+		"/Users/richardyoung/Documents/HyperLathe/redesign/hyperlathe_2015/css/uikit.css",
+		"/Users/richardyoung/Documents/HyperLathe/redesign/hyperlathe_2015/js/core/alert.js",
+		"/Users/richardyoung/Documents/HyperLathe/redesign/hyperlathe_2015/js/uikit.js",
+		"/Users/richardyoung/Documents/Tutorials/ajax_nav/js/ajax_nav.js",
+		"/Users/richardyoung/Documents/Tutorials/ajax_nav/css/style.css",
+		"/Users/richardyoung/Documents/Tutorials/ajax_nav/second_page.php",
+		"/Users/richardyoung/Documents/Tutorials/ajax_nav/first_page.php",
+		"/Users/richardyoung/Documents/Clients/Aquent : Vitamin T/Philosophy Design/Invenias/invenias/index.php",
+		"/Users/richardyoung/Desktop/test_sublime"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"level",
+			"undo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
