@@ -13,23 +13,8 @@ module.exports = function(grunt) {
             } 
         },
         concat: {
-            headjs: {
-                src: [
-                    'js/customHeadSrc/uikit.min.js',
-                    'js/customHeadSrc/sticky.js',
-                    'js/customHeadSrc/parallax.js'
-                ],
-                dest: 'js/headSrc/global-head.js',
-            },
-            footjs: {
-                src: [
-                    'js/customFootSrc/*.js',
-                ],
-                dest: 'js/footSrc/global-foot.js',
-            },
             css: {
                 src: [
-                    'css/uikit.min.css',
                     'css/custom/*.css'
                 ],
                 dest: 'css/styles.css',
@@ -38,14 +23,13 @@ module.exports = function(grunt) {
         uglify: {
             build: {
                 files: {
-                    "js/footSrc/global-foot.min.js": ["js/footSrc/global-foot.js"],
-                    "js/headSrc/global-head.min.js": ["js/headSrc/global-head.js"]
+                    "js/final/scripts.min.js": ["js/custom/scripts.js"],
                 }
             }
         },
         watch: {
             scripts: {
-                files: ['js/customHeadSrc/*.js', 'js/customFootSrc/*.js'],
+                files: ['js/custom/*.js'],
                 tasks: ['concat', 'uglify'],
                 options: {
                     spawn: false,

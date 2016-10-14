@@ -5,9 +5,9 @@
 <meta name="keywords" content="<?php echo $metaKeywords; ?>" />
 <meta name="format-detection" content="telephone=no" />
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.4/css/bootstrap.min.css" integrity="2hfp1SzUoho7/TsGGGDaFdsuuDL0LX2hnUp6VkX3CUQ2K4K+xjboZdsXyp4oUHZj" crossorigin="anonymous">
 <link rel="stylesheet" href="./css/styles.css" />
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="./js/headSrc/global-head.min.js"></script>
 
 <script>
 
