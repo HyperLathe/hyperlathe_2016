@@ -5,9 +5,12 @@
 <meta name="keywords" content="<?php echo $metaKeywords; ?>" />
 <meta name="format-detection" content="telephone=no" />
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.4/css/bootstrap.min.css" integrity="2hfp1SzUoho7/TsGGGDaFdsuuDL0LX2hnUp6VkX3CUQ2K4K+xjboZdsXyp4oUHZj" crossorigin="anonymous">
-<link rel="stylesheet" href="./css/styles.css" />
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="./css/styles.css" />
+<script src='https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js'></script>
+
+<script src="https://use.typekit.net/zwz0zbe.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
 
 <script>
 
