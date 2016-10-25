@@ -1,15 +1,6 @@
 
 $(function() {
 
-	window.addEventListener("resize", checkOpen);
-
-function checkOpen() { 
-	if (document.documentElement.clientWidth > 768 && document.getElementById("nav-trigger").checked) {		
-    	document.getElementById("nav-trigger").click();
-}}
-
-
-
     if(Modernizr.history){
 
     var $mainContent = $("#main-content"),
@@ -35,7 +26,12 @@ function checkOpen() {
                         $("nav a").removeClass("current");
                         console.log(href);
                         $("nav a[href$='" + href + "']").addClass("current");
+         	               if (document.documentElement.clientWidth < 768) {
+								$('#myNavmenu').offcanvas('hide');
+    						}
                     });
+
+    	
                 });
     }
     
