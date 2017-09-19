@@ -63,24 +63,25 @@
                             <li>Adobe Photoshop</li>
                             <li>Adobe Illustrator</li>
                             <li>Adobe InDesign</li>
-                            <li>Wordpress</li>
+                            <li>WordPress</li>
                             <li>HTML Emails</li>
                             <li>Grunt</li>
-                            <li>GIT / Github</li>
+                            <li>Git / GitHub</li>
                             <li>Twitter Bootstrap</li>
                             <li>UIKit</li>
                             <li>Google Analytics</li>
                             <li>Sublime Text 2</li>
                             <li>Balsamiq</li>
-                            <li>Browserstack</li>
+                            <li>BrowserStack</li>
                             <li>Trello</li>
-                            <li>Mailchimp</li>
+                            <li>MailChimp</li>
                             <li>Agile Methodologies</li>
                         </ul>
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-6">
                         <h2>Client List:</h2>
                         <ul>
+                            <li>EE</li>
                             <li>Direct Line Group</li>
                             <li>IG Index / Boston Ivy</li>
                             <li>Lebara Mobile</li>
@@ -104,11 +105,13 @@
                         </ul>
                     </div>
           		</div>
-            </div>  
+            </div>
+        <?php include("./inc/footer.php"); ?>
         </section>
+        <div class="corner_graphic">&nbsp;</div>
     </div>
 <?php include("./inc/modals.php"); ?>
 
-<?php include("./inc/footer.php"); ?>
+
 </body>
 </html>

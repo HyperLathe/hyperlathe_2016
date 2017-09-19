@@ -75,10 +75,12 @@
   			</div>
   		</div>
     </div>
+<?php include("./inc/footer.php"); ?>
 </section>
+<div class="corner_graphic">&nbsp;</div>
 </div>
 <?php include("./inc/modals.php"); ?>
 
-<?php include("./inc/footer.php"); ?>
+
 </body>
 </html>

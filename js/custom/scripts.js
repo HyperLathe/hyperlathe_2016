@@ -17,10 +17,13 @@ $(function() {
         return false;
     });
 
+
+
     function loadContent(href){
         $mainContent
                 .find("#guts")
                 .fadeOut(100, function() {
+                    $('#guts').text('loading...');
                     $mainContent.hide().load(href + " #guts", function() {
                         $mainContent.fadeIn(100);
                         $("nav a").removeClass("current");

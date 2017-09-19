@@ -77,14 +77,14 @@
             <p>Using the original logo design as a starting point, I adapted it to include the names of all the previous pieces, while incorporating a large 'X' to reference the 10-year anniversary. The finished design was printed on t-shirts, hoodies, bandanas and stickers.</p>
           </div>
           <div class="col-md-6">
-            <img src="./img/design_ima_tshirt.jpg" alt="Iron Monkey Arts 10 year anniversary logo on t-shirt" class="img-responsive">
+            <img src="./img/ironmonkey_clothing.jpg" alt="Iron Monkey Arts 10 year anniversary logo on t-shirts and bandana" class="img-responsive">
           </div>
         </div>
-      </div>
-      <div class="row">
-          <div class="col-md-12">
-          <img src="./img/design_ima_10yrlogo.png" alt="Iron Monkey Arts 10 year anniversary logo" class="img-responsive">
-          </div>
+        <div class="row">
+            <div class="col-md-12">
+            <img src="./img/design_ima_10yrlogo.png" alt="Iron Monkey Arts 10 year anniversary logo" class="img-responsive">
+            </div>
+        </div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-primary" data-dismiss="modal">close</button>
@@ -106,18 +106,19 @@
             <p>Ignition Northwest is a 501c3 non-profit volunteer-led arts organization that was founded by a community of artists based in Seattle and surrounding areas.</p>
             <p>Each year they set up and curate 'Critical Northwest' a week-long arts festival in the Pacific Northwest region with interactive theme camps, art installations and performance areas.</p>
             <p>Included in the welcome pack for visitors and participants, is a guide book detailing the weeks schedule, details about the art pieces, general event guidelines and more.</p>
-            <p>INW approached me and asked me to design the entire book based upon the theme for the year. The theme for 2016 was 'Home Sweet Home' so I decided to explore the imagery and visual vernacular of Fifties Americana to create a kitsch concept of 'home', drawing upon various design iconography and advertising from the era.</p>
+            <p>INW approached me and asked me to design the guide book cover and contents, based upon the theme for the year. The theme for 2016 was 'Home Sweet Home' so I decided to explore the imagery and visual vernacular of Fifties Americana to create a kitsch concept of 'home', drawing upon various design iconography and advertising from the era.</p>
             <p>The final layout was produced in Adobe InDesign, and approximately a thousand copies were printed and handed out at the event.</p>
           </div>
           <div class="col-md-6">
-            <img src="./img/design_cnw_2016book_photo.jpg" alt="Critical Northwest 2016 Guide Book cover" class="img-responsive">
+            <img src="./img/criticalnw_book.jpg" alt="Critical Northwest 2016 Guide Book cover" class="img-responsive">
           </div>
         </div>
-      </div>
-      <div class="row">
+        <br>
+        <div class="row">
           <div class="col-md-12">
           <img src="./img/design_cnw_2016book.jpg" alt="Critical Northwest 2016 Guide Book cover" class="img-responsive">
           </div>
+      </div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-primary" data-dismiss="modal">close</button>
@@ -164,17 +165,19 @@
             <p>He approached me to design and develop a new version of his website, specifying that he wanted something that would work well on all devices and screens, while giving him the ability to update and add content himself.</p>
             <p>We decided that WordPress would be the best way forward, so I chose an existing template and adapted it to Brian's requirements.</p>
             <p>Part of his specification was to include the option for multiple languages due to the success of his work in France and Poland, and also a live Twitter feed.</p>
+            <p><a href="http://www.brianlockmusic.com" target="_blank">www.brianlockmusic.com</a></p>
           </div>
           <div class="col-md-6">
             <img src="./img/screenshot_brianlock_mobile.jpg" alt="Brian Lock Music on a mobile device." class="img-responsive">
           </div>
         </div>
-      </div>
-      <div class="row">
-          <div class="col-md-12">
-              <img src="./img/screenshot_brianlock.jpg" alt="Brian Lock Music on desktop" class="img-responsive">
-              <br>
-          </div>
+        <br>
+        <div class="row">
+            <div class="col-md-12">
+                <img src="./img/screenshot_brianlock.jpg" alt="Brian Lock Music on desktop" class="img-responsive">
+                <br>
+            </div>
+        </div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-primary" data-dismiss="modal">close</button>
@@ -201,11 +204,12 @@
             <img src="./img/design_ashleyspub_flier.jpg" alt="Ashley's Pub flier" class="img-responsive">
           </div>
         </div>
-      </div>
-      <div class="row">
-          <div class="col-md-12">
-          <img src="./img/design_ashleyspub_proofs.jpg" alt="Proofs for Ashley's Pub line of clothing" class="img-responsive">
-          </div>
+        <br>
+        <div class="row">
+            <div class="col-md-12">
+            <img src="./img/design_ashleyspub_proofs.jpg" alt="Proofs for Ashley's Pub line of clothing" class="img-responsive">
+            </div>
+        </div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-primary" data-dismiss="modal">close</button>
@@ -319,3 +323,200 @@
     </div>
   </div>
 </div>
+
+<div class="modal fade bostonivy_detail" tabindex="-1" role="dialog" aria-labelledby="bostonIvy" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button data-dismiss="modal" class="close" type="button"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+        <h4 id="bostonIvy" class="modal-title">Boston Ivy</h4>
+      </div>
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-md-6">
+            <p>Boston Ivy is a FTSE 250-backed company that is providing some of the most specialised website domain extensions in the financial services sector.</p>
+            <p>I was brought in to design and build a number of projects, including a rebuild of bostonivy.co from the ground up, and a number of financial service sites, utilising WordPress and customised PHP.
+            <p>I also built working prototypes, including <a href="http://hyperlathe.com/clients/ig/bostonivy/" target="_blank">a working mockup of the Boston Ivy site.</a></p>
+            <p>A couple of other test prototypes:</p>
+            <p><a href="http://hyperlathe.com/clients/bostonivy/financialdirectory/" target="_blank">Financial Directory</a></p>
+            <p><a href="http://hyperlathe.com/clients/bostonivy/the600/" target="_blank">Bitcoin.markets</a></p>
+            <p>In addition to web content I also built and sent a number of email templates using the popular platform Mailchimp.</p>
+          </div>
+          <div class="col-md-6">
+            <img src="./img/screenshot_bostonivy_mobile.jpg" alt="Boston Ivy - mobile version" class="img-responsive">
+          </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-12">
+            <img src="./img/screenshot_bostonivy.jpg" alt="Boston Ivy - desktop version" class="img-responsive">
+            </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade treasure8_detail" tabindex="-1" role="dialog" aria-labelledby="treasure8" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button data-dismiss="modal" class="close" type="button"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+        <h4 id="treasure8" class="modal-title">Treasure8</h4>
+      </div>
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-md-12">
+            <p>Treasure8 is a San Francisco-based food innovation and technology company whose goal is to solve the nutritional challenges and environmental stresses of a growing global population.</p>
+            <p>I was commissioned to build a simple web app, designed for use primarily for tablets, that presented users with a quick and ergonomic interface, allowing them to take quick surveys and offer feedback on specific food products.</p>
+            <p>The final framework was built with jQuery Mobile to the client’s design specifications.</p>
+            <p><a href="http://www.iter8.treasure8.com" target="_blank">www.iter8.treasure8.com</a></p>
+          </div>
+        </div>      
+        <div class="row">
+            <div class="col-md-12">
+            <img src="./img/screenshot_treasure8.jpg" alt="Iter8 by Treasure8" class="img-responsive">
+            </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade thecascades_detail" tabindex="-1" role="dialog" aria-labelledby="theCascades" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button data-dismiss="modal" class="close" type="button"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+        <h4 id="theCascades" class="modal-title">The Cascades</h4>
+      </div>
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-md-6">
+            <p>I built this site based on designs provided by Philosophy Design in London, using WordPress as a CMS and utilising some Bootstrap for layout and mobile display purposes.</p>
+            <p>The client specified that they needed a way to switch views between the photo map and layout blueprints on each apartment page, which was achieved with some jQuery.</p>
+            <p><a href="http://thecascadesnw3.com" target="_blank">http://thecascadesnw3.com</a></p>
+          </div>
+          <div class="col-md-6">
+            <img src="./img/screenshot_thecascades_mobile.jpg" alt="The Cascades NW3 - mobile version" class="img-responsive">
+          </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-12">
+            <img src="./img/screenshot_cascades.jpg" alt="The Cascades NW3 - desktop version" class="img-responsive">
+            <br>
+            <img src="./img/screenshot_cascades2.jpg" alt="The Cascades NW3 - apartment page - desktop version" class="img-responsive">
+            </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade beforethetour_detail" tabindex="-1" role="dialog" aria-labelledby="beforeTheTour" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button data-dismiss="modal" class="close" type="button"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+        <h4 id="beforeTheTour" class="modal-title">Before the Tour</h4>
+      </div>
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-md-6">
+            <p>Beforethetour.com is a site designed to promote Le Tour - One Day Ahead; a way for cycling enthusiasts to experience the route of the famous Tour de France a day ahead of the main event. The organisers promote a package for participants including travel, meals, accommodation etc.</p>
+            <p>This was another project designed by Philosophy Design in London, and built by me as a single-page responsive site using Bootstrap, with some jQuery for functionality. They also requested the implementation of a customised Twitter feed and contact form.</p>
+            <p><a href="http://beforethetour.com" target="_blank">http://beforethetour.com</a></p>
+          </div>
+          <div class="col-md-6">
+            <img src="./img/screenshot_beforethetour_mobile.jpg" alt="Before the Tour - mobile version" class="img-responsive">
+          </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-12">
+            <img src="./img/screenshot_beforethetour.jpg" alt="Before the Tour - desktop version" class="img-responsive">
+            <br>
+            <img src="./img/screenshot_beforethetour2.jpg" alt="Before the Tour - desktop version" class="img-responsive">
+            </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade invenias_detail" tabindex="-1" role="dialog" aria-labelledby="invenias" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button data-dismiss="modal" class="close" type="button"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+        <h4 id="invenias" class="modal-title">Invenias</h4>
+      </div>
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-md-6">
+            <p>Another client of Philosophy Design, Invenias is the world’s fastest growing provider of software solutions to the executive search and strategic recruitment sector.</p>
+            <p>I was tasked with building a responsive site around WordPress, with the added challenge of multiple drop-down menus on the desktop view that incorporated forms and other functionality.</p>
+            <p><a href="http://www.invenias.com" target="_blank">www.invenias.com</a></p>
+          </div>
+          <div class="col-md-6">
+            <img src="./img/screenshot_invenias_mobile.jpg" alt="Invenias - mobile version" class="img-responsive">
+          </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-12">
+              <img src="./img/screenshot_invenias.jpg" alt="Invenias - desktop version" class="img-responsive"> 
+            </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade missionhousing_detail" tabindex="-1" role="dialog" aria-labelledby="missionHousing" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button data-dismiss="modal" class="close" type="button"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+        <h4 id="missionHousing" class="modal-title">Mission Housing</h4>
+      </div>
+      <div class="modal-body">
+      <div class="row">
+            <div class="col-md-12">
+              <p>Mission Housing is a charity that aims to provide housing support and counsellors to support the needs of London’s diverse population. They reach out to the young and elderly, employed and unemployed, those with physical or mental health issues and addictions, the homeless, refugees and recent immigrants.</p>
+              <p>Working through Philosophy Design, it was decided that it wasn’t possible to implement a CMS due to time and budget constraints, so I used a combination of jQuery and Bootstrap to display the static pages.</p>
+              <p><a href="http://www.missionhousing.org.uk" target="_blank">www.missionhousing.org.uk</a></p>
+              <img src="./img/screenshot_missionhousing.jpg" alt="Mission Housing" class="img-responsive">
+            </div>
+          </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+

@@ -26,7 +26,7 @@
     			</a>
   			</div>
   			<div class="col-xs-12 col-sm-6 col-md-4	">
-    			<a href="#" data-toggle="modal" data-target=".boatonivy_detail" class="thumbnail">
+    			<a href="#" data-toggle="modal" data-target=".bostonivy_detail" class="thumbnail">
       				<img src="./img/thumbnail_bostonivy.jpg" alt="Boston Ivy">
       				<div class="caption">Boston Ivy</div>
     			</a>
@@ -62,7 +62,7 @@
     			</a>
   			</div>
   			<div class="col-xs-12 col-sm-6 col-md-4	">
-    			<a href="#" data-toggle="modal" data-target=".brianlockmusic_detail" class="thumbnail">
+    			<a href="#" data-toggle="modal" data-target=".brianlock_detail" class="thumbnail">
       				<img src="./img/thumbnail_brianlockmusic.jpg" alt="Brian Lock Music">
       				<div class="caption">Brian Lock Music</div>
     			</a>
@@ -75,10 +75,10 @@
   			</div>
   		</div>
     </div>
+<?php include("./inc/footer.php"); ?>
 </section>
-
+<div class="corner_graphic">&nbsp;</div>
 </div>
 <?php include("./inc/modals.php"); ?>
-<?php include("./inc/footer.php"); ?>
 </body>
 </html>

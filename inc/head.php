@@ -5,13 +5,13 @@
 <meta name="keywords" content="<?php echo $metaKeywords; ?>" />
 <meta name="format-detection" content="telephone=no" />
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="./css/styles.css" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jasny-bootstrap/3.1.3/css/jasny-bootstrap.min.css">
+<link rel="stylesheet" href="./css/styles.css" />
 <script src='https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js'></script>
 
 <script src="https://use.typekit.net/zwz0zbe.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
-
 
 <script>
 
@@ -39,5 +39,12 @@
       document.createElement('footer');
    </script>
 <![endif]-->
+
+<meta property="og:title" content="HyperLathe: UX/Design/Development by Richard Young" />
+<meta property="og:url" content="http://www.hyperlathe.com" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Making quality web-related content including wireframing, UX, prototyping, design, development, and testing." />
+<meta property="og:image" content="http://www.hyperlathe.com/img/logo.gif" />
+<meta property="fb:app_id" content="683470471825862" />
 
 </head>

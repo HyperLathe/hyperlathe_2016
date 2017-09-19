@@ -69,6 +69,10 @@ p a {
 	padding-top: 30px;
 }
 
+.modal-footer {
+	margin-top: 30px;
+}
+
 .close {
 	font-size: 35px;
 }
@@ -210,9 +214,6 @@ width: 200px !important;
 
 
 
-.row:last-child {
-	margin-bottom: 40px;
-}
 
 .thumbnail {
 	background: $brand-grey;
@@ -247,6 +248,7 @@ width: 200px !important;
 			.copyright {
 				font-family: "museo-sans", sans-serif;
 				font-weight: 100;
+				font-size: 1.2rem;
 			}
 		}
 }
@@ -362,6 +364,18 @@ width: 200px !important;
 	}
 }
 
+.corner_graphic {
+	width: 8%;
+	height: 15%;
+	content: '';
+	display: block;
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	border-right: 3px solid $brand-main;
+	border-bottom: 3px solid $brand-main;
+}
+
 #main-content {
 	width: 83%;
 	float: right;
@@ -406,22 +420,13 @@ width: 200px !important;
 
 .footer_background {
 	margin: 0px 0px 5px 2%;
-	width: 100%;
 }
 
 
 /* Medium devices (desktops, 960px and up) */
 @media (min-width: 960px) {
 
-	.hero_home {
-			h1 {
-				font-size: 3em;
-				line-height: 1.1em;
-			}
-			p {
-				font-size: 1.5em;
-			}
-	}
+
 
 }
 

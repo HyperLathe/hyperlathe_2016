@@ -8,7 +8,7 @@ if(isset($_POST['email'])) {
      
     function died($error) {
         // your error code can go here
-        echo "<h1>We are very sorry, but there were error(s) found with the form you submitted.</h1>";
+        echo "We are very sorry, but there were error(s) found with the form you submitted. ";
         echo "These errors appear below.<br /><br />";
         echo $error."<br /><br />";
         echo "Please go back to amend these errors. Thank you.<br /><br />";
@@ -71,44 +71,8 @@ $headers = 'From: '.$email_from."\r\n".
  
 <!-- include your own success html here -->
  
-<!DOCTYPE HTML>
-
-<html lang="en">
-
-<?php $pageTitle = "HyperLathe | Web Design";
-      $metaDescription = "Effective and responsive web design, development and maintenance by Richard Young";
-      $metaKeywords = "web, design, build, development, copywriting, writing, responsive, html5, css3, html, css, semantic, accessible";
-      include("./inc/head.php");
-?>
-
-
-<body>
-<div id="page-wrap">
-<?php include("./inc/sidebar.php"); ?>
-
-<section id="main-content" class="container-fluid">
-    <div id="guts" class="header_indent">
-    <div class="logo_mobile visible-xs-block" id="home"><a href="index.php#"><span>hyperlathe</span></a></div>
-        <div id="top-section">
-            <h1>Success!</h1>
-        </div>
-        <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-12">
-                <h2>Thank you for your interest</h2>
-                <p>I will be in touch as soon as possible.</p>
-            </div>
-        </div>
-    </div>
-<?php include("./inc/footer.php"); ?>
-</section>
-<div class="corner_graphic">&nbsp;</div>
-</div>
-<?php include("./inc/modals.php"); ?>
-</body>
-</html>
-
+<?php include($DOCUMENT_ROOT . "contact_thanks.php"); ?>
  
-
 <?php
 }
 ?>
