@@ -20,9 +20,7 @@ $(function() {
 
 
     function loadContent(href){
-        $mainContent
-                .find("#guts")
-                .fadeOut(100, function() {
+        $mainContent.find("#guts").fadeOut(100, function() {
                     $('#guts').text('loading...');
                     $mainContent.hide().load(href + " #guts", function() {
                         $mainContent.fadeIn(100);
@@ -38,12 +36,13 @@ $(function() {
                 });
     }
     
-    $(window).bind('popstate', function(){
-       _link = location.pathname.replace(/^.*[\\\/]/, ''); //get filename only
-       loadContent(_link);
-    });
+
 
 } // otherwise, history is not supported, so nothing fancy here.
 
     
 });
+
+function loadModal(modalKey) {
+    $( "#modalBlock" ).load( "inc/modal_" + modalKey + ".html" );
+}

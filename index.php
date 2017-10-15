@@ -38,6 +38,5 @@
 </section>
 <div class="corner_graphic">&nbsp;</div>
 </div>
-<?php include("./inc/modals.php"); ?>
 </body>
 </html>

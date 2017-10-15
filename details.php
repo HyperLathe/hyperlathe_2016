@@ -70,7 +70,7 @@
                             <li>Twitter Bootstrap</li>
                             <li>UIKit</li>
                             <li>Google Analytics</li>
-                            <li>Sublime Text 2</li>
+                            <li>Sublime Text 3</li>
                             <li>Balsamiq</li>
                             <li>BrowserStack</li>
                             <li>Trello</li>
@@ -81,6 +81,8 @@
                     <div class="col-xs-12 col-sm-6 col-md-6">
                         <h2>Client List:</h2>
                         <ul>
+                            <li>Simplestream</li>
+                            <li>Centtrip</li>
                             <li>EE</li>
                             <li>Direct Line Group</li>
                             <li>IG Index / Boston Ivy</li>
