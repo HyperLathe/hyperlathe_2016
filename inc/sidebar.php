@@ -1,14 +1,14 @@
 <div id="myNavmenu" class="sidebar navmenu navmenu-default navmenu-fixed-left offcanvas-xs">
 
-<div class="logo" id="home"><a href="index.php#"><span>hyperlathe</span></a></div>
+<div class="logo" id="home_mobile"><a href="index.php">hyperlathe</a></div>
 
 <nav>
 	<ul class="navigation">
-		<li class="nav-item visible-xs-block"><a href="index.php#">home</a></li>	
-	  	<li class="nav-item"><a href="design.php#">design</a></li>
-	  	<li class="nav-item"><a href="development.php#">development</a></li>
-	  	<li class="nav-item"><a href="details.php#">details</a></li>
-	  	<li class="nav-item"><a href="contact.php#">contact</a></li>
+		<li class="nav-item visible-xs-block"><a href="index.php">home</a></li>	
+	  	<li class="nav-item"><a href="design.php">design</a></li>
+	  	<li class="nav-item"><a href="development.php">development</a></li>
+	  	<li class="nav-item"><a href="details.php">details</a></li>
+	  	<li class="nav-item"><a href="contact.php">contact</a></li>
 	</ul>
 </nav>
 
@@ -20,7 +20,7 @@
 
 </div>
 
-<button type="button" class="navbar-toggle" data-toggle="offcanvas" data-target="#myNavmenu" data-canvas="body">
+<button type="button" name="Menu" class="navbar-toggle" data-toggle="offcanvas" data-target="#myNavmenu" data-canvas="body">
     <span class="icon-bar"></span>
     <span class="icon-bar"></span>
     <span class="icon-bar"></span>

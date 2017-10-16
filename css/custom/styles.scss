@@ -148,9 +148,8 @@ width: 200px !important;
 			display: block;
 			background: url('/img/logo.png') center center no-repeat;
 			background-size: contain;
-				span {
-					display: none;
-				}
+			color: transparent;
+			font-size: 0px;
 		}
 }
 
@@ -231,6 +230,7 @@ width: 200px !important;
 		}
 		&:hover {
 			border: 5px solid $brand-main !important;
+			cursor: pointer;
 			.caption {
 				font-weight: bolder;
 				text-decoration: none !important;
@@ -329,9 +329,8 @@ width: 200px !important;
 			display: block;
 			background: url('/img/logo.png') center center no-repeat;
 			background-size: contain;
-				span {
-					display: none;
-				}
+			color: transparent;
+			font-size: 0px;
 		}
 }
 

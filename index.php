@@ -15,7 +15,7 @@
 
 <section id="main-content" class="container-fluid">
     <div id="guts" class="header_indent">
-    <div class="logo_mobile visible-xs-block" id="home"><a href="index.php#"><span>hyperlathe</span></a></div>
+    <div class="logo_mobile visible-xs-block" id="home"><a href="index.php">hyperlathe</a></div>
         <div id="top-section">
             <h1>Richard Young</h1>
         </div>
@@ -38,5 +38,6 @@
 </section>
 <div class="corner_graphic">&nbsp;</div>
 </div>
+<?php include("./inc/modals.php"); ?>
 </body>
 </html>
