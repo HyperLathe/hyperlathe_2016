@@ -20,7 +20,7 @@
 
 </div>
 
-<button type="button" name="Menu" class="navbar-toggle" data-toggle="offcanvas" data-target="#myNavmenu" data-canvas="body">
+<button type="button" name="Menu" aria-label="Menu" class="navbar-toggle" data-toggle="offcanvas" data-target="#myNavmenu" data-canvas="body">
     <span class="icon-bar"></span>
     <span class="icon-bar"></span>
     <span class="icon-bar"></span>
